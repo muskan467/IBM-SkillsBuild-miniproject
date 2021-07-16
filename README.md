@@ -1,1 +1,2 @@
-# IBM-SkillsBuild-miniproject
+# IBM-SkillsBuild
+# Data Analysis Miniproject
